@@ -1,1 +1,1 @@
-Loan Calculator made in JavaScript, HTML and CSS
+Loan Calculator made in JavaScript, HTML and CSS.
